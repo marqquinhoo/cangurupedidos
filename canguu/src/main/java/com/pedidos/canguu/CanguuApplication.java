@@ -1,13 +1,13 @@
-package br.com.mpwebmaster.mvc.cangurupedidos;
+package com.pedidos.canguu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CanguruPedidosApplication {
+public class CanguuApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CanguruPedidosApplication.class, args);
+		SpringApplication.run(CanguuApplication.class, args);
 	}
 
 }

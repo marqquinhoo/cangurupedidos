@@ -1,10 +1,10 @@
-package br.com.mpwebmaster.mvc.comprepramim;
+package com.pedidos.canguu;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ComprepramimApplicationTests {
+class CanguuApplicationTests {
 
 	@Test
 	void contextLoads() {
